@@ -1,0 +1,2 @@
+all:
+	-Wall -Werror -o main chess.cpp
